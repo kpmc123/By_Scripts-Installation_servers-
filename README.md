@@ -1,10 +1,11 @@
-Scripts-Installation
+1.Scripts-Installation
 
-Installation Only Work for Ubuntu 18.04LTS, 20.04LTS and 22.04LTS
+2.Installation Only Work for Ubuntu 18.04LTS, 20.04LTS and 22.04LTS
 
-Steps to use the Scripts For Linux OS only
+3.Steps to use the Scripts For Linux OS only
 
-Clone the repo by command, git clone https://github.com/kpmc123/By_Scripts-Installation_servers-.git
-cd Scripts-Installation
-sudo chmod +x <Script_name> e.g,sudo chmod +x Install-Docker.sh
-./<Script_name> e.g ./Install-Docker.sh
+4.Clone the repo by command, git clone https://github.com/kpmc123/By_Scripts-Installation_servers-.git
+
+5.cd Scripts-Installation
+6.sudo chmod +x <Script_name> e.g,sudo chmod +x Install-Docker.sh
+7../<Script_name> e.g ./Install-Docker.sh
