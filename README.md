@@ -4,7 +4,7 @@
 
 3.Steps to use the Scripts For Linux OS only
 
-4.Clone the repo by command, git clone https://github.com/kpmc123/By_Scripts-Installation_servers-.git
+4.Clone the repo by command, git clone https://github.com/kmc1234/By_Scripts-Installation_servers-.git
 
 5.cd Scripts-Installation
 
